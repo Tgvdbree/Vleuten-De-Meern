@@ -1,0 +1,19 @@
+{
+  "name": "vleutendemeern_bot",
+  "version": "1.0.0",
+  "description": "Vleuten De Meern bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Roblox",
+    "VDM"
+  ],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
