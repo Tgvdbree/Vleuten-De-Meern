@@ -56,4 +56,4 @@ client.on("massageCreate", async message => {
 
 });
 
-client.login(botConfig.token);
+bot.login(process.env.token);
